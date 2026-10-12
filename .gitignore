@@ -1,0 +1,49 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Local config
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Spec / source-of-truth (do not commit SEPC.txt or upstream briefs)
+SEPC.txt
+docs/prd.md
+docs/legal-outline.md
+docs/seo-keywords.md
+docs/design-tokens.md
+docs/ui-components.md
+docs/motion-vocabulary.md
+
+# Local QA scripts (kept for re-running verification, not shipped)
+verify-tools/

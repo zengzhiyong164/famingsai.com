@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Deru the deer — building materials mascot">
+  <title>Deru the building-materials deer</title>
+  <defs>
+    <linearGradient id="deer-body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#C28A5A"/>
+      <stop offset="100%" stop-color="#7A4F2A"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="120" cy="220" rx="64" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- antlers -->
+  <path d="M86 60c-4-12-4-22 0-32 4 4 8 14 8 26 M82 60c-8-2-14 0-20 12 8-4 14-4 18 0 M84 50c-4-6-12-8-20-6 4 6 12 10 18 8Z" stroke="#7A4F2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M154 60c4-12 4-22 0-32-4 4-8 14-8 26 M158 60c8-2 14 0 20 12-8-4-14-4-18 0 M156 50c4-6 12-8 20-6-4 6-12 10-18 8Z" stroke="#7A4F2A" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+  <!-- body -->
+  <ellipse cx="120" cy="160" rx="52" ry="46" fill="url(#deer-body)"/>
+
+  <!-- belly cream -->
+  <ellipse cx="120" cy="170" rx="22" ry="28" fill="#EDE9DE"/>
+
+  <!-- legs -->
+  <rect x="86" y="184" width="10" height="28" rx="3" fill="#7A4F2A"/>
+  <rect x="144" y="184" width="10" height="28" rx="3" fill="#7A4F2A"/>
+
+  <!-- head -->
+  <ellipse cx="120" cy="98" rx="40" ry="44" fill="url(#deer-body)"/>
+
+  <!-- face cream -->
+  <ellipse cx="120" cy="116" rx="22" ry="20" fill="#EDE9DE"/>
+
+  <!-- ears -->
+  <ellipse cx="80" cy="84" rx="10" ry="14" transform="rotate(-20 80 84)" fill="url(#deer-body)"/>
+  <ellipse cx="160" cy="84" rx="10" ry="14" transform="rotate(20 160 84)" fill="url(#deer-body)"/>
+  <ellipse cx="80" cy="84" rx="5" ry="8" transform="rotate(-20 80 84)" fill="#FFB5B5"/>
+  <ellipse cx="160" cy="84" rx="5" ry="8" transform="rotate(20 160 84)" fill="#FFB5B5"/>
+
+  <!-- eyes -->
+  <circle cx="104" cy="100" r="6" fill="#0B0B0F"/>
+  <circle cx="136" cy="100" r="6" fill="#0B0B0F"/>
+  <circle cx="106" cy="98" r="2" fill="#F4F4F1"/>
+  <circle cx="138" cy="98" r="2" fill="#F4F4F1"/>
+
+  <!-- nose -->
+  <ellipse cx="120" cy="124" rx="6" ry="4" fill="#0B0B0F"/>
+
+  <!-- mouth -->
+  <path d="M120 130v4 M120 134c-2 2-4 2-6 1 M120 134c2 2 4 2 6 1" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- dots -->
+  <circle cx="78" cy="148" r="3" fill="#F4F4F1" opacity=".8"/>
+  <circle cx="92" cy="158" r="3" fill="#F4F4F1" opacity=".8"/>
+  <circle cx="148" cy="148" r="3" fill="#F4F4F1" opacity=".8"/>
+  <circle cx="156" cy="158" r="3" fill="#F4F4F1" opacity=".8"/>
+
+  <!-- brick prop -->
+  <g transform="translate(170 200)">
+    <rect x="-22" y="-8" width="44" height="16" fill="#D08A1F"/>
+    <rect x="-22" y="-8" width="44" height="16" fill="none" stroke="#0B0B0F" stroke-width="1.5"/>
+    <path d="M0 -8v16 M-22 0h44" stroke="#0B0B0F" stroke-width="1" opacity=".5"/>
+  </g>
+</svg>

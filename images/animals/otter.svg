@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Otto the otter — electronics mascot">
+  <title>Otto the electronics otter</title>
+  <defs>
+    <linearGradient id="otter-body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A88A14"/>
+      <stop offset="100%" stop-color="#5B4214"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="120" cy="220" rx="60" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- tail -->
+  <path d="M60 180c-20-8-30-26-26-46 18 4 30 22 30 38Z" fill="url(#otter-body)"/>
+
+  <!-- body -->
+  <ellipse cx="120" cy="166" rx="48" ry="44" fill="url(#otter-body)"/>
+
+  <!-- chest cream -->
+  <ellipse cx="120" cy="170" rx="26" ry="30" fill="#EDE9DE"/>
+
+  <!-- legs -->
+  <ellipse cx="96" cy="200" rx="14" ry="10" fill="#5A4028"/>
+  <ellipse cx="144" cy="200" rx="14" ry="10" fill="#5A4028"/>
+
+  <!-- head -->
+  <ellipse cx="120" cy="104" rx="44" ry="40" fill="url(#otter-body)"/>
+
+  <!-- ears -->
+  <circle cx="86" cy="76" r="8" fill="#5A4028"/>
+  <circle cx="154" cy="76" r="8" fill="#5A4028"/>
+
+  <!-- face cream -->
+  <ellipse cx="120" cy="116" rx="32" ry="22" fill="#EDE9DE"/>
+
+  <!-- eyes -->
+  <circle cx="104" cy="100" r="6" fill="#0B0B0F"/>
+  <circle cx="136" cy="100" r="6" fill="#0B0B0F"/>
+  <circle cx="106" cy="98" r="2" fill="#F4F4F1"/>
+  <circle cx="138" cy="98" r="2" fill="#F4F4F1"/>
+
+  <!-- nose -->
+  <path d="M120 116c-5 0-9-3-9-6s4-4 9-4 9 1 9 4-4 6-9 6Z" fill="#0B0B0F"/>
+
+  <!-- whiskers -->
+  <path d="M88 122h-12 M88 126h-14 M152 122h12 M152 126h14" stroke="#0B0B0F" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- mouth -->
+  <path d="M120 124v4 M120 128c-3 3-7 3-10 1 M120 128c3 3 7 3 10 1" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- chip prop -->
+  <g transform="translate(160 168) rotate(15)">
+    <rect x="-12" y="-12" width="24" height="24" rx="2" fill="#1C69D4"/>
+    <rect x="-6" y="-6" width="12" height="12" rx="1" fill="#D4AF37"/>
+    <path d="M-12 -6h-4 M-12 0h-4 M-12 6h-4 M12 -6h4 M12 0h4 M12 6h4 M-6 -12v-4 M0 -12v-4 M6 -12v-4 M-6 12v4 M0 12v4 M6 12v4" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

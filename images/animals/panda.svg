@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Pando the panda — machinery mascot">
+  <title>Pando the machinery panda</title>
+  <ellipse cx="120" cy="220" rx="64" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- body -->
+  <ellipse cx="120" cy="170" rx="50" ry="44" fill="#F4F4F1"/>
+  <ellipse cx="120" cy="170" rx="26" ry="34" fill="#0B0B0F"/>
+
+  <!-- legs -->
+  <ellipse cx="92" cy="200" rx="18" ry="14" fill="#0B0B0F"/>
+  <ellipse cx="148" cy="200" rx="18" ry="14" fill="#0B0B0F"/>
+  <ellipse cx="92" cy="200" rx="9" ry="7" fill="#F4F4F1"/>
+  <ellipse cx="148" cy="200" rx="9" ry="7" fill="#F4F4F1"/>
+
+  <!-- arms -->
+  <ellipse cx="68" cy="168" rx="14" ry="22" fill="#0B0B0F" transform="rotate(-20 68 168)"/>
+  <ellipse cx="172" cy="168" rx="14" ry="22" fill="#0B0B0F" transform="rotate(20 172 168)"/>
+
+  <!-- head -->
+  <circle cx="120" cy="100" r="50" fill="#F4F4F1"/>
+
+  <!-- ears -->
+  <circle cx="82" cy="68" r="14" fill="#0B0B0F"/>
+  <circle cx="158" cy="68" r="14" fill="#0B0B0F"/>
+
+  <!-- eye patches -->
+  <ellipse cx="100" cy="100" rx="14" ry="18" fill="#0B0B0F" transform="rotate(-15 100 100)"/>
+  <ellipse cx="140" cy="100" rx="14" ry="18" fill="#0B0B0F" transform="rotate(15 140 100)"/>
+
+  <!-- eyes -->
+  <circle cx="100" cy="100" r="6" fill="#F4F4F1"/>
+  <circle cx="140" cy="100" r="6" fill="#F4F4F1"/>
+  <circle cx="100" cy="100" r="3" fill="#0B0B0F"/>
+  <circle cx="140" cy="100" r="3" fill="#0B0B0F"/>
+
+  <!-- nose -->
+  <path d="M120 116c-3 0-5-2-5-4s2-3 5-3 5 1 5 3-2 4-5 4Z" fill="#0B0B0F"/>
+
+  <!-- mouth -->
+  <path d="M120 124v4 M120 120c-2 6-6 8-10 8 M120 120c2 6 6 8 10 8" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- hard hat -->
+  <path d="M70 64c0-22 22-36 50-36s50 14 50 36H70Z" fill="#D4AF37"/>
+  <rect x="66" y="62" width="108" height="6" rx="2" fill="#A88A14"/>
+  <rect x="118" y="34" width="4" height="22" fill="#F4F4F1"/>
+  <circle cx="120" cy="34" r="6" fill="#D4AF37" stroke="#A88A14" stroke-width="2"/>
+
+  <!-- wrench in hand -->
+  <g transform="translate(168 168) rotate(40)">
+    <rect x="-2" y="-22" width="6" height="40" rx="2" fill="#9B9B9"/>
+    <path d="M-6 -22 a6 6 0 1 0 14 0 v-8 h-14 z" fill="#9B9B9"/>
+  </g>
+</svg>

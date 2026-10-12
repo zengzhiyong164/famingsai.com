@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Whalli the whale — international mascot">
+  <title>Whalli the international whale</title>
+  <defs>
+    <linearGradient id="whale-body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1C69D4"/>
+      <stop offset="100%" stop-color="#0E3F82"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="120" cy="220" rx="64" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- water spout -->
+  <path d="M100 40c-4 8-12 8-12 16M120 36c0 10-8 12-8 20M140 40c4 8 12 8 12 16" stroke="#1C69D4" stroke-width="3" stroke-linecap="round" fill="none" opacity=".5"/>
+
+  <!-- body -->
+  <path d="M40 142c0-30 36-50 80-50s80 20 80 50c0 28-36 48-80 48s-80-20-80-48Z" fill="url(#whale-body)"/>
+
+  <!-- belly -->
+  <path d="M60 156c0-22 26-38 60-38s60 16 60 26c0 22-26 36-60 36s-60-14-60-24Z" fill="#DCE8FA"/>
+
+  <!-- tail -->
+  <path d="M196 124c12-12 24-10 32 0-8 4-16 6-22 12l4 8c-8 0-16-4-22-12Z" fill="url(#whale-body)"/>
+
+  <!-- fin -->
+  <path d="M120 192c-4 8-12 12-20 12l8-16Z" fill="url(#whale-body)"/>
+
+  <!-- blowhole -->
+  <ellipse cx="100" cy="92" rx="6" ry="3" fill="#0E1338"/>
+
+  <!-- eye -->
+  <circle cx="68" cy="128" r="4" fill="#F4F4F1"/>
+  <circle cx="68" cy="128" r="2" fill="#0B0B0F"/>
+
+  <!-- smile -->
+  <path d="M58 144c8 6 14 6 22 4" stroke="#0E3F82" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+  <!-- globe on body -->
+  <g transform="translate(140 140)">
+    <circle r="14" fill="#F4F4F1"/>
+    <path d="M-14 0h28 M0 -14a10 10 0 0 1 0 14 M0 -14a10 10 0 0 0 0 14" stroke="#1C69D4" stroke-width="2" fill="none"/>
+  </g>
+</svg>

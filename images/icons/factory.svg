@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="factory">
+  <title>Factory — production</title>
+  <g fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M6 50V28l14 8v-8l14 8v-8l14 8v14H6z"/>
+    <rect x="10" y="38" width="6" height="6"/>
+    <rect x="22" y="38" width="6" height="6"/>
+    <rect x="34" y="38" width="6" height="6"/>
+    <rect x="46" y="38" width="6" height="6"/>
+    <path d="M14 28V18h6v6 M28 28V14h6v10 M42 28V18h6v6"/>
+  </g>
+</svg>

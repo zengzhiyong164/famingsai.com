@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Hexi the hedgehog — compliance mascot">
+  <title>Hexi the compliance hedgehog</title>
+  <defs>
+    <linearGradient id="hedge-body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5B5B57"/>
+      <stop offset="100%" stop-color="#2B2B30"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="120" cy="220" rx="62" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- spines back row -->
+  <g fill="url(#hedge-body)">
+    <path d="M60 130l-6-22 12 8Z M76 110l-2-26 14 10Z M96 96l2-28 14 14Z M120 92l4-30 12 18Z M144 96l8-28 10 18Z M168 110l12-26 6 18Z M186 130l16-22 4 18Z"/>
+  </g>
+
+  <!-- body -->
+  <path d="M58 156c0-32 28-58 62-58s62 26 62 58c0 22-20 38-48 38-12 0-22-2-30-2-10 0-20 4-32 4-6 0-14-2-14-12Z" fill="url(#hedge-body)"/>
+
+  <!-- belly -->
+  <path d="M64 174c0-22 22-40 56-40 22 0 38 8 50 22-12 18-30 26-50 26-18 0-44 0-56-8Z" fill="#EDE9DE"/>
+
+  <!-- face -->
+  <path d="M68 168c0-22 20-36 42-36 26 0 42 14 42 32 0 8-6 14-14 14H82c-6 0-14-2-14-10Z" fill="#EDE9DE"/>
+
+  <!-- nose -->
+  <ellipse cx="84" cy="168" rx="8" ry="6" fill="#0B0B0F"/>
+
+  <!-- eyes -->
+  <circle cx="108" cy="156" r="4" fill="#0B0B0F"/>
+  <circle cx="148" cy="156" r="4" fill="#0B0B0F"/>
+  <circle cx="110" cy="154" r="1.5" fill="#F4F4F1"/>
+  <circle cx="150" cy="154" r="1.5" fill="#F4F4F1"/>
+
+  <!-- cheek -->
+  <circle cx="100" cy="172" r="5" fill="#FF6B5B" opacity=".5"/>
+  <circle cx="156" cy="172" r="5" fill="#FF6B5B" opacity=".5"/>
+
+  <!-- smile -->
+  <path d="M100 182c8 6 32 6 40 0" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- feet -->
+  <ellipse cx="92" cy="206" rx="10" ry="6" fill="#5B5B57"/>
+  <ellipse cx="148" cy="206" rx="10" ry="6" fill="#5B5B57"/>
+
+  <!-- shield prop -->
+  <g transform="translate(176 188)">
+    <path d="M0 -14 14 -8 V4 c0 8 -6 14 -14 18 -8 -4 -14 -10 -14 -18 V-8 Z" fill="#D4AF37"/>
+    <path d="M-6 0 0 6 8 -4" stroke="#0B0B0F" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

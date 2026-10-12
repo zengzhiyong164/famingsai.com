@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Fennix the fox — sourcing mascot">
+  <title>Fennix the sourcing fox</title>
+  <defs>
+    <linearGradient id="fox-body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF8C5A"/>
+      <stop offset="100%" stop-color="#E04A38"/>
+    </linearGradient>
+  </defs>
+  <!-- ground -->
+  <ellipse cx="120" cy="220" rx="62" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- tail -->
+  <path d="M180 158c20-8 30-26 26-46-12 6-22 16-26 30-2 6-2 12 0 16Z" fill="url(#fox-body)"/>
+  <path d="M196 116c4 8 4 18 0 26-4-6-6-14-4-22Z" fill="#F4F4F1"/>
+
+  <!-- body -->
+  <path d="M58 168c0-46 28-78 62-78s62 32 62 78c0 8-2 14-6 20H64c-4-6-6-12-6-20Z" fill="url(#fox-body)"/>
+
+  <!-- chest -->
+  <path d="M104 174c0-16 7-30 16-30s16 14 16 30Z" fill="#F4F4F1"/>
+
+  <!-- legs -->
+  <rect x="78" y="186" width="14" height="22" rx="4" fill="#0B0B0F"/>
+  <rect x="148" y="186" width="14" height="22" rx="4" fill="#0B0B0F"/>
+
+  <!-- head -->
+  <path d="M70 110c0-32 22-58 50-58s50 26 50 58c0 24-22 44-50 44s-50-20-50-44Z" fill="url(#fox-body)"/>
+
+  <!-- ears -->
+  <path d="M70 64l8 36-30-8Z" fill="url(#fox-body)"/>
+  <path d="M170 64l-8 36 30-8Z" fill="url(#fox-body)"/>
+  <path d="M82 76l-2 14-10-10Z" fill="#F4F4F1"/>
+  <path d="M158 76l2 14 10-10Z" fill="#F4F4F1"/>
+
+  <!-- face cream -->
+  <path d="M88 122c0-14 14-26 32-26s32 12 32 26-14 26-32 26-32-12-32-26Z" fill="#FFE4D2"/>
+
+  <!-- eyes -->
+  <ellipse cx="104" cy="110" rx="6" ry="9" fill="#0B0B0F"/>
+  <ellipse cx="136" cy="110" rx="6" ry="9" fill="#0B0B0F"/>
+  <circle cx="106" cy="107" r="2" fill="#F4F4F1"/>
+  <circle cx="138" cy="107" r="2" fill="#F4F4F1"/>
+
+  <!-- cheeks -->
+  <circle cx="92" cy="128" r="6" fill="#FF6B5B" opacity=".55"/>
+  <circle cx="148" cy="128" r="6" fill="#FF6B5B" opacity=".55"/>
+
+  <!-- nose -->
+  <path d="M120 130c-4 0-7-3-7-5s3-3 7-3 7 1 7 3-3 5-7 5Z" fill="#0B0B0F"/>
+
+  <!-- mouth -->
+  <path d="M120 138v6 M120 144c-3 4-7 4-10 2 M120 144c3 4 7 4 10 2" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- magnifier prop -->
+  <circle cx="170" cy="100" r="18" fill="none" stroke="#D4AF37" stroke-width="4"/>
+  <path d="m184 114 10 10" stroke="#D4AF37" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="170" cy="100" r="10" fill="#DCE8FA" opacity=".5"/>
+</svg>

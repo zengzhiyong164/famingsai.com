@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="PHARMINCEPT favicon">
+  <title>PHARMINCEPT favicon</title>
+  <rect width="32" height="32" rx="6" fill="#0B0B0F"/>
+  <path d="M16 4 L27 10 L27 22 L16 28 L5 22 L5 10 Z"
+        fill="none" stroke="#1C69D4" stroke-width="2" stroke-linejoin="round"/>
+  <g transform="translate(16 16)" fill="#D4AF37">
+    <path d="M0 -7 L6 -3.5 L6 3.5 L0 7 L-6 3.5 L-6 -3.5 Z"/>
+  </g>
+  <g transform="translate(16 16)" fill="#F4F4F1">
+    <path d="M0 -3 L2.6 -1.5 L2.6 1.5 L0 3 L-2.6 1.5 L-2.6 -1.5 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Pengo the penguin — logistics mascot">
+  <title>Pengo the logistics penguin</title>
+  <ellipse cx="120" cy="220" rx="60" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- body -->
+  <path d="M68 130c0-46 22-72 52-72s52 26 52 72c0 30-22 60-52 60s-52-30-52-60Z" fill="#0B0B0F"/>
+
+  <!-- belly -->
+  <ellipse cx="120" cy="148" rx="36" ry="48" fill="#F4F4F1"/>
+
+  <!-- head -->
+  <ellipse cx="120" cy="92" rx="42" ry="38" fill="#0B0B0F"/>
+
+  <!-- face white -->
+  <ellipse cx="120" cy="104" rx="32" ry="22" fill="#F4F4F1"/>
+
+  <!-- eyes -->
+  <circle cx="104" cy="92" r="5" fill="#F4F4F1"/>
+  <circle cx="136" cy="92" r="5" fill="#F4F4F1"/>
+  <circle cx="105" cy="92" r="3" fill="#0B0B0F"/>
+  <circle cx="137" cy="92" r="3" fill="#0B0B0F"/>
+
+  <!-- beak -->
+  <path d="M120 108l-10 12h20l-10-12Z" fill="#D4AF37"/>
+  <path d="M110 120h20l-10 6Z" fill="#A88A14"/>
+
+  <!-- flippers -->
+  <ellipse cx="68" cy="148" rx="10" ry="28" fill="#0B0B0F" transform="rotate(-15 68 148)"/>
+  <ellipse cx="172" cy="148" rx="10" ry="28" fill="#0B0B0F" transform="rotate(15 172 148)"/>
+
+  <!-- feet -->
+  <path d="M92 200c-6 0-10-4-10-10 6 0 14 4 14 10Z" fill="#D4AF37"/>
+  <path d="M148 200c6 0 10-4 10-10-6 0-14 4-14 10Z" fill="#D4AF37"/>
+
+  <!-- package -->
+  <g transform="translate(170 174) rotate(20)">
+    <rect x="-12" y="-12" width="24" height="24" rx="2" fill="#D4AF37"/>
+    <path d="M-12 0h24 M0 -12v24" stroke="#0B0B0F" stroke-width="1.5"/>
+  </g>
+</svg>

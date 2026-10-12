@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="share">
+  <title>Share</title>
+  <circle cx="6" cy="12" r="2.5" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <circle cx="18" cy="6" r="2.5" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <circle cx="18" cy="18" r="2.5" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <path d="m8 11 8-4 M8 13l8 4" stroke="currentColor" stroke-width="1.5" fill="none"/>
+</svg>

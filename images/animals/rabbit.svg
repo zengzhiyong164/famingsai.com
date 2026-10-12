@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Ruru the rabbit — mobile app mascot">
+  <title>Ruru the mobile-app rabbit</title>
+  <ellipse cx="120" cy="220" rx="62" ry="8" fill="#0B0B0F" opacity=".08"/>
+
+  <!-- body -->
+  <ellipse cx="120" cy="166" rx="50" ry="46" fill="#F4F4F1"/>
+
+  <!-- legs -->
+  <ellipse cx="96" cy="200" rx="16" ry="10" fill="#F4F4F1"/>
+  <ellipse cx="144" cy="200" rx="16" ry="10" fill="#F4F4F1"/>
+  <ellipse cx="96" cy="200" rx="8" ry="5" fill="#FF6B5B"/>
+  <ellipse cx="144" cy="200" rx="8" ry="5" fill="#FF6B5B"/>
+
+  <!-- ears -->
+  <ellipse cx="100" cy="60" rx="10" ry="36" fill="#F4F4F1"/>
+  <ellipse cx="140" cy="60" rx="10" ry="36" fill="#F4F4F1"/>
+  <ellipse cx="100" cy="62" rx="6" ry="28" fill="#FFB5B5"/>
+  <ellipse cx="140" cy="62" rx="6" ry="28" fill="#FFB5B5"/>
+
+  <!-- head -->
+  <circle cx="120" cy="110" r="46" fill="#F4F4F1"/>
+
+  <!-- cheeks -->
+  <circle cx="88" cy="124" r="8" fill="#FF6B5B" opacity=".5"/>
+  <circle cx="152" cy="124" r="8" fill="#FF6B5B" opacity=".5"/>
+
+  <!-- eyes -->
+  <ellipse cx="104" cy="108" rx="6" ry="9" fill="#0B0B0F"/>
+  <ellipse cx="136" cy="108" rx="6" ry="9" fill="#0B0B0F"/>
+  <circle cx="106" cy="106" r="2" fill="#F4F4F1"/>
+  <circle cx="138" cy="106" r="2" fill="#F4F4F1"/>
+
+  <!-- nose -->
+  <path d="M120 122l-5 5h10l-5-5Z" fill="#FF6B5B"/>
+
+  <!-- mouth -->
+  <path d="M120 128v6 M120 134c-3 3-7 3-9 0 M120 134c3 3 7 3 9 0" stroke="#0B0B0F" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- tooth -->
+  <rect x="118" y="134" width="4" height="8" fill="#F4F4F1" stroke="#0B0B0F" stroke-width="1"/>
+
+  <!-- phone prop -->
+  <g transform="translate(168 168) rotate(15)">
+    <rect x="-14" y="-22" width="28" height="44" rx="4" fill="#0B0B0F"/>
+    <rect x="-12" y="-20" width="24" height="38" rx="2" fill="#1C69D4"/>
+    <rect x="-3" y="-21" width="6" height="2" rx="1" fill="#5B5B57"/>
+    <circle cx="0" cy="16" r="2" fill="#F4F4F1"/>
+  </g>
+</svg>

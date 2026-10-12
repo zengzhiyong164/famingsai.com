@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="electronic chip">
+  <title>Electronic chip — components line</title>
+  <rect x="14" y="14" width="36" height="36" rx="3" fill="none" stroke="currentColor" stroke-width="3"/>
+  <rect x="22" y="22" width="20" height="20" rx="2" fill="currentColor"/>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round">
+    <path d="M22 8v6 M30 8v6 M38 8v6 M42 8v6"/>
+    <path d="M22 50v6 M30 50v6 M38 50v6 M42 50v6"/>
+    <path d="M8 22h6 M8 30h6 M8 38h6 M8 42h6"/>
+    <path d="M50 22h6 M50 30h6 M50 38h6 M50 42h6"/>
+  </g>
+</svg>
